@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">ShoppingListApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="shop_list_item_picture">shop list item picture</string>
+    <string name="add_shop_item_to_list_button">add shop item to list button</string>
+    <string name="item_data_error">item data error</string>
+    <string name="shop_items">Shop Items</string>
+    <string name="items_to_buy">To Buy</string>
+    <string name="bought_items">Bought</string>
+    <string name="get_from_camera">Get from camera</string>
+    <string name="get_from_gallery">Get from gallery</string>
+    <string name="set_default">Set default</string>
+    <string name="set_image">Set image</string>
+    <string name="shop_item_hint">Shop item</string>
+    <string name="all_items">All</string>
+    <string name="is_bought">Is Bought</string>
+    <string name="save_button_label">Save</string>
+    <string name="is_bought_icon_description">is bought icon</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_all">Select All</string>
+    <string name="make_bought">Make bought</string>
+    <string name="make_not_bought">Make not bought</string>
+    <string name="delete_selected">Delete selected</string>
+    <string name="images_require_permissions">Using of image requires permissions!</string>
+</resources>

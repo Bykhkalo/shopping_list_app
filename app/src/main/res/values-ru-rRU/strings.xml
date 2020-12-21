@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="item_data_error">Ошибка данных!</string>
+    <string name="shop_items">Список покупок</string>
+    <string name="items_to_buy">Купить</string>
+    <string name="bought_items">Куплено</string>
+    <string name="get_from_camera">Сфотографировать</string>
+    <string name="get_from_gallery">Загрузить с галереи</string>
+    <string name="set_default">Установить по умолчанию</string>
+    <string name="set_image">Установить изображение</string>
+    <string name="all_items">Все</string>
+    <string name="is_bought">Куплен</string>
+    <string name="save_button_label">Сохранить</string>
+    <string name="is_bought_icon_description">иконка куплен ли товар</string>
+    <string name="cancel">Отменить</string>
+    <string name="select_all">Выбрать все</string>
+    <string name="make_bought">Сделать купленными</string>
+    <string name="make_not_bought">Сделать не купленными</string>
+    <string name="delete_selected">Удалить выбранные</string>
+    <string name="shop_item_hint">Покупка</string>
+    <string name="add_shop_item_to_list_button">кнопка добавления покупки в список</string>
+    <string name="shop_list_item_picture">изображение покупки</string>
+    <string name="images_require_permissions">Использование изображений требует разрешения!</string>
+</resources>
